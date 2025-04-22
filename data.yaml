@@ -1,0 +1,6 @@
+train: D:\yolo\dataset\train\images
+val: D:\yolo\dataset\valid\images
+test: D:\yolo\dataset\test\images
+
+nc: 41
+names: ['ALS', 'Angular Leafspot', 'Anthracnose Fruit Rot', 'Apple Scab Leaf', 'Apple leaf', 'Apple rust leaf', 'Bean Rust', 'Bell_pepper leaf', 'Bell_pepper leaf spot', 'Blossom Blight', 'Blueberry leaf', 'Cherry leaf', 'Corn Gray leaf spot', 'Corn leaf blight', 'Corn rust leaf', 'Gray Mold', 'Leaf Spot', 'Peach leaf', 'Potato leaf', 'Potato leaf early blight', 'Potato leaf late blight', 'Powdery Mildew Fruit', 'Powdery Mildew Leaf', 'Raspberry leaf', 'Soyabean leaf', 'Squash Powdery mildew leaf', 'Strawberry leaf', 'Tomato Early blight leaf', 'Tomato Septoria leaf spot', 'Tomato leaf', 'Tomato leaf bacterial spot', 'Tomato leaf late blight', 'Tomato leaf mosaic virus', 'Tomato leaf yellow virus', 'Tomato mold leaf', 'Tomato two spotted spider mites leaf', 'disease', 'grape leaf', 'grape leaf black rot', 'leaf mold', 'spider mites']
